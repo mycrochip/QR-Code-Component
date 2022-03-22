@@ -13,31 +13,31 @@ body {
 }
 
 .container {
-  width: 576px;
+  width: 288px;
   margin: 25vh auto;
-  border-radius: 50px;
-  padding: 30px;
+  border-radius: 25px;
+  padding: 15px;
   background-color: hsl(0, 0%, 100%);
   box-shadow: 0 2px 20px hsl(220, 15%, 55%);
 }
 
 .qr-code img{
   width: 100%;
-  border-radius: 30px;
-  margin-bottom: 40px;
+  border-radius: 15px;
+  margin-bottom: 20px;
 }
 
 .description {
-  font-size: 40px;
+  font-size: 20px;
   font-weight: 700;
   color: hsl(218, 44%, 22%);
 }
 
 .instruction {
-  font-size: 30px;
+  font-size: 15px;
   font-weight: 400;
   color: hsl(220, 15%, 55%);
 }
 
-.attribution { font-size: 22px; text-align: center; }
+.attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
